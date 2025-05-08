@@ -1,10 +1,7 @@
----
-
 # 📊 Kumpulan Project Dashboard
 
-Selamat datang di repositori **Kumpulan Project Dashboard**!
-Repositori ini berisi berbagai proyek dashboard interaktif yang saya buat untuk visualisasi data dari berbagai domain, mulai dari data publik, bisnis, hingga lingkungan.
-
+Selamat datang di repositori **Kumpulan Project Dashboard**!  
+Repositori ini berisi berbagai proyek dashboard interaktif yang saya buat untuk visualisasi data dari berbagai domain, mulai dari data publik
 
 ## 🧰 Teknologi yang Digunakan
 
